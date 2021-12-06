@@ -70,7 +70,7 @@ Sponsors
 Motivation
 ----------
 
-Using PostgREST is an alternative to manual CRUD programming. Custom API servers suffer problems. Writing business logic often duplicates, ignores or hobbles database structure. Object-relational mapping is a leaky abstraction leading to slow imperative code. The PostgREST philosophy establishes a single declarative source of truth: the data itself.
+Using PostgREST is an alternative to manual CRUD programming. Custom API servers suffer from problems. Writing business logic often duplicates, ignores or hobbles database structure. Object-relational mapping is a leaky abstraction leading to slow imperative code. The PostgREST philosophy establishes a single declarative source of truth: the data itself.
 
 Declarative Programming
 -----------------------
